@@ -1,0 +1,134 @@
+[
+  {
+    "author": "Andreas Pardeike",
+    "name": "Harmony",
+    "steamId": "2009463077",
+    "version": "1.5.0.0"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Camera+",
+    "steamId": "867467808",
+    "version": "2.5.2.0"
+  },
+  {
+    "author": "CrashM",
+    "name": "CM Color Coded Mood Bar [1.1+]",
+    "steamId": "2006605356",
+    "version": "1.4.3607.2"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Mint Menus",
+    "steamId": "1446523594",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Follow Me",
+    "steamId": "715759739",
+    "version": "4.9.95"
+  },
+  {
+    "author": "krafs",
+    "name": "Level Up!",
+    "steamId": "1701592470",
+    "version": "4.1.0+6.Branch.main.Sha.4156a5719e52a99c97f2e34e62dc4c28e30ce7b1"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Medical Tab",
+    "steamId": "715565817",
+    "version": "3.4.91"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Music Manager",
+    "steamId": "2229205672",
+    "version": "1.2.196"
+  },
+  {
+    "author": "Peppsen",
+    "name": "P-Music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "legodude17",
+    "name": "Quality Colors",
+    "steamId": "2420141361",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Jaxe",
+    "name": "RimHUD",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Silent Doors (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson und Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "OskarPotocki, Atlas und Kikohi",
+    "name": "Vanilla Furniture Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki und XeoNovaDan",
+    "name": "Vanilla Hair Expanded",
+    "steamId": "1888705256",
+    "version": "1.0.3"
+  },
+  {
+    "author": "Murmur",
+    "name": "Wall Light",
+    "steamId": "1423699208",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "qhil",
+    "name": "Wall Light - Deutsche Übersetzung",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "hodlhodl",
+    "name": "ToolkitCore",
+    "steamId": "2018368654",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "Twitch Toolkit",
+    "steamId": "1718525787",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "6.3.0.0.biotech.b6"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "TwitchToolkit - Lootboxes",
+    "steamId": "1720021578",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Helixien, Erin, Luizi, ISOREX und erdelf",
+    "name": "Vanilla Textures Expanded",
+    "steamId": "2016436324",
+    "version": "1.0.0"
+  }
+]
